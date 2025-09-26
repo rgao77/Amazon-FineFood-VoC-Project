@@ -64,3 +64,21 @@ The project uses the **Amazon Fine Food Reviews Dataset** available on Kaggle:
    ```bash
    git clone https://github.com/rgao77/Amazon-FineFood-VoC-Project.git
 
+2. Open the notebook in Jupyter Lab to reproduce the analysis.
+
+3. The cleaned metrics are saved in tidy CSV files (VoC_metrics_long.csv, VoC_topics_with_themes.csv).
+
+
+## Dashboard
+The full Tableau dashboard can be viewed here:  
+https://github.com/rgao77/Amazon-FineFood-VoC-Project/blob/main/VoC_Dashboard.pdf
+
+This dashboard summarizes:
+
+Overall NPS & CSAT levels
+
+Monthly NPS & CSAT trends
+
+Top 10 products by NPS
+
+Bottom 10 products by NPS
