@@ -32,7 +32,7 @@ to uncover **customer pain points (detractors)** and **delighters (promoters)**,
 
 ---
 
-##️ Methods
+## Methods
 ### 1. Data Cleaning & Feature Engineering  
 - Processed >500K reviews (sampled for efficiency).  
 - Built NPS labels (**Promoter / Passive / Detractor**).  
