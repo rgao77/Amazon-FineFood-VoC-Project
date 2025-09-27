@@ -1,4 +1,4 @@
-#️ Amazon Fine Food – Voice of Customer (VoC) Analytics Project  
+# Amazon Fine Food – Voice of Customer (VoC) Analytics Project  
 
 ## Project Goal
 This project analyzes **Amazon Fine Food Reviews** to extract actionable **Voice of Customer (VoC) insights**.  
