@@ -71,7 +71,7 @@ to uncover **customer pain points (detractors)** and **delighters (promoters)**,
 
 ## Dashboard
 The interactive dashboard (Tableau) is available as a PDF:  
-- [Download Excel Dashboard (XLSX)](data/VoC_metrics_dashboard.xlsx) 
+- [View Tableau Dashboard (PDF)](data/VoC_Dashboard.pdf) 
 
 It summarizes:  
 - **Overall NPS & CSAT**   - **Monthly Trends**  
