@@ -1,7 +1,15 @@
 # Amazon Fine Food – Voice of Customer (VoC) Analytics Project  
 
 ## Project Goal
-This project analyzes **Amazon Fine Food Reviews** to extract actionable **Voice of Customer (VoC) insights**.  
+   This project is a **portfolio example** demonstrating my ability to deliver  
+end-to-end **Voice of Customer (VoC) analytics** — from data cleaning and CX metric 
+design (NPS, CSAT, CES), predictive modeling, topic modeling, to executive-ready 
+reporting & Tableau dashboarding.  
+
+The work is directly aligned with **Business Intelligence & Strategy Analyst** roles,  
+showcasing how VoC analytics can generate actionable insights that improve customer loyalty, 
+support sales & marketing, and guide operational excellence.  
+  
 
 The focus is on:  
 - **NPS (Net Promoter Score)**  
