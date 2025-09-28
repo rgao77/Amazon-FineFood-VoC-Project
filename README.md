@@ -72,11 +72,10 @@ to uncover **customer pain points (detractors)** and **delighters (promoters)**,
 ## Dashboard
 The interactive dashboard (Tableau) is available as a PDF:  
 
-[View Dashboard (PDF)](https://github.com/rgao77/Amazon-FineFood-VoC-Project/blob/main/data/VoC_Dashboard.pdf)  
+[View Dashboard (PDF)](https://github.com/rgao77/Amazon-FineFood-VoC-Project/blob/main/reports/VoC_Dashboard.pdf)
 
 It summarizes:  
-- **Overall NPS & CSAT**  
-- **Monthly Trends**  
+- **Overall NPS & CSAT**   - **Monthly Trends**  
 - **Top 10 Products by NPS**  
 - **Bottom 10 Products by NPS**  
 
