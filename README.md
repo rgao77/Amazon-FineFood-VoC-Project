@@ -99,6 +99,8 @@ It summarizes:
 - `notebooks/` — Jupyter notebooks for analysis and modeling  
 - `reports/` — Final report deliverables (PDF, LaTeX outputs,Excel dashboard)  
 - `README.md` — Project overview and instructions
+
  [Download Final Report (PDF)](reports/Amazon_Fine_Food_VoC_NPS_Project.pdf)
+
  [Download Excel Dashboard (XLSX)](reports/VoC_metrics_dashboard.xlsx)
 
