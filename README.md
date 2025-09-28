@@ -71,8 +71,7 @@ to uncover **customer pain points (detractors)** and **delighters (promoters)**,
 
 ## Dashboard
 The interactive dashboard (Tableau) is available as a PDF:  
-
-[View Dashboard (PDF)](https://github.com/rgao77/Amazon-FineFood-VoC-Project/blob/main/reports/VoC_Dashboard.pdf)
+- [Download Excel Dashboard (XLSX)](data/VoC_metrics_dashboard.xlsx) 
 
 It summarizes:  
 - **Overall NPS & CSAT**   - **Monthly Trends**  
@@ -100,6 +99,6 @@ It summarizes:
 - `reports/` — Final report deliverables (PDF, LaTeX outputs,Excel dashboard)  
 - `README.md` — Project overview and instructions
 
-   [Download Final Report (PDF)](reports/Amazon_Fine_Food_VoC_NPS_Project.pdf)  
-   [View Tableau Dashboard (PDF)](reports/VoC_Dashboard.pdf)  
-   [Download Excel Dashboard (XLSX)](reports/VoC_metrics_dashboard.xlsx)  
+   [Final Report (PDF)](reports/Amazon_Fine_Food_VoC_NPS_Project.pdf)  
+   [Tableau Dashboard (PDF)](data/VoC_Dashboard.pdf)  
+   [Download Excel Dashboard (XLSX)](data/VoC_metrics_dashboard.xlsx)   
