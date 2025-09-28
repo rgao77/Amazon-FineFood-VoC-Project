@@ -82,4 +82,14 @@ It summarizes:
    Amazon Fine Food VoC–NPS Project.ipynb
 3. Use the tidy CSV files in Tableau for visualization:
    VoC_metrics_long.csv → KPIs, trends, product metrics
-   VoC_topics_with_themes.csv → Themes (pain points & delighters)
+   VoC_topics_with_themes.csv → Themes (pain points & delighters
+
+---
+
+## Project Structure
+
+- `data/` — Processed datasets and dashboard exports  
+- `notebooks/` — Jupyter notebooks for analysis and modeling  
+- `reports/` — Final report deliverables (PDF, LaTeX outputs)  
+- `README.md` — Project overview and instructions
+
